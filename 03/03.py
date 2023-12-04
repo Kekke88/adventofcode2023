@@ -9,6 +9,7 @@ sys.path.append(parent)
 
 matrix = []
 
+# This is a monstrosity please dont even look at this
 
 def has_adjacent_symbol(y: int, x: int):
     try:
